@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pth
+*.npy
+*.nii.gz
+geometry_trainfit/
+3DINO/
+.DS_Store

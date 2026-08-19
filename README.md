@@ -88,4 +88,12 @@ python compute_saliency_overlap_metrics.py --saliency_dir <dir> --mask_dir <dir>
 
 ## Citation
 
-If you use this code, please cite our paper (citation details will be added upon publication).
+If you find this work useful, please consider citing:
+
+```bibtex
+@article{zhang2026learning,
+  title={Learning Coarse-to-Fine Osteoarthritis Representations under Noisy Hierarchical Labels},
+  author={Zhang, Tongxu},
+  journal={arXiv preprint arXiv:2605.00718},
+  year={2026}
+}
